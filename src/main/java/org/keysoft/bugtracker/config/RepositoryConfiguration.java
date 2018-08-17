@@ -1,4 +1,4 @@
-package main.java.com.keysoft.bugtracker.config;
+package org.keysoft.bugtracker.config;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
